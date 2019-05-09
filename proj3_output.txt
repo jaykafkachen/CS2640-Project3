@@ -1,0 +1,68 @@
+> integers will be inserted
+> into array in ascending order
+how many signed ints?
+==> 20
+int to insert
+==> -1
+int to insert
+==> 19
+int to insert
+==> 0
+int to insert
+==> 1
+int to insert
+==> 2
+int to insert
+==> 4
+int to insert
+==> 3
+int to insert
+==> 7
+int to insert
+==> 6
+int to insert
+==> 5
+int to insert
+==> 9
+int to insert
+==> 8
+int to insert
+==> 11
+int to insert
+==> 12
+int to insert
+==> 10
+int to insert
+==> 13
+int to insert
+==> 15
+int to insert
+==> 14
+int to insert
+==> 17
+int to insert
+==> 18
+-1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 
+
+> binarysearch test
+> will prompt for input indefinitely
+> stop using MARS stop button
+
+
+int to search for
+==> -1
+RESULT (TRUE(1)/FALSE(0)) == 1
+int to search for
+==> 19
+RESULT (TRUE(1)/FALSE(0)) == 1
+int to search for
+==> 9
+RESULT (TRUE(1)/FALSE(0)) == 1
+int to search for
+==> 102
+RESULT (TRUE(1)/FALSE(0)) == 0
+int to search for
+==> -44
+RESULT (TRUE(1)/FALSE(0)) == 0
+int to search for
+==> 
